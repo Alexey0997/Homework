@@ -9,7 +9,6 @@ if(numberA == numberB)
 {
     Console.WriteLine("Эти числа равны. Введите, пожалуйста, два разных целых числа.");
 }
-else
 if(numberA > numberB)
 {
     Console.WriteLine($"Первое число {numberA} больше второго числа {numberB}.");
